@@ -1,0 +1,2 @@
+<h1>Projeto OptimusTech #7daysofcoding!</h1>
+<p>Neste challage nos é fornecido um design no figma e a cada dia temos que fazer uma parte. O escopo do projeto é o seguinte: uma empresa de TI quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la. A cada dia nos é enviado instruções para montar o site, e nessas instruções também vem acompanhado dicas e observações da instrutora Gi Moeller. #7DoC #feedback7DoC #7DaysOfCode</p>
