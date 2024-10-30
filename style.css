@@ -27,34 +27,34 @@ body {
     height: 100vh;
 }
 
-.cabecalho {
+.navbar {
     display: flex;
-    
+
 }
 
-.cabecalho-container {
+.navbar-container {
     width: 100vw;
     margin: 2em 5em;
 }
 
-.cabecalho-logo, .cabecalho-navbar,.cabecalho-container {
+.navbar-logo, .lista-navbar,.navbar-container {
     display: flex;
     align-items: center;
     margin: 1em;
 
 }
 
-.cabecalho-marca {
+.navbar-marca {
     color: var(--cinza-do-logo);
     font-size: 18px;
     font-weight: 500;
 }
 
-.cabecalho-imagem {
+.navbar-imagem {
     margin: 0.5em;
 }
 
-.cabecalho-navbar {
+.lista-navbar {
     list-style: none;
 }
 
@@ -68,7 +68,7 @@ body {
     margin-left: 2em;
 }
 
-.cabecalho-botao {
+.navbar-botao {
     display: flex;
     align-items: center;
     justify-content: right;
